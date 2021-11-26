@@ -1,0 +1,1 @@
+This project is a work in progress that is creating a simple application to allow for the input of basic DnD character sheet details and to allow these to be saved and retrieved as local files.
